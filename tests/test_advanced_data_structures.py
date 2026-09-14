@@ -1,4 +1,5 @@
 import unittest
+from src.data_structures import Client
 from src.advanced_data_structures import ClientDict, ClientMatrix
 
 class TestAdvancedDataStructures(unittest.TestCase):

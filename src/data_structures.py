@@ -3,6 +3,8 @@ class Client:
         self.name = name
         self.age = age
         self.city = city
+        self.purchases: list = []
+        self.transactions: list = []
 
 class ClientArray:
     def __init__(self):

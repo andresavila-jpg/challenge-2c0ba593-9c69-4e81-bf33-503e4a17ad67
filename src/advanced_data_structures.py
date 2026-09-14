@@ -1,3 +1,6 @@
+from src.data_structures import Client
+
+
 class ClientDict:
     def __init__(self):
         self.clients = {}
