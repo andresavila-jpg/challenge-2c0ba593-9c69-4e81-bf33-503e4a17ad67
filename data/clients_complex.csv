@@ -1,0 +1,4 @@
+name,purchases,transactions
+Alice,[100, 200],[500, 600]
+Bob,[150],[]
+Charlie,[250, 300],[700]
